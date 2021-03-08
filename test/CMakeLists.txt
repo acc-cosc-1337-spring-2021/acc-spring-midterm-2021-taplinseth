@@ -1,0 +1,3 @@
+ADD_SUBDIRECTORY(question_test_1)
+ADD_SUBDIRECTORY(question_test_2)
+ADD_SUBDIRECTORY(question_test_3)
